@@ -1,0 +1,81 @@
+main {
+    border: 1px solid red;
+    padding: 5px;
+    background-color: azure;
+}
+
+.heading {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    background-image: url(Desmoto/pattern.jpeg);
+}
+
+.brushes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    border-radius: 8px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.brush-prices {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes-pic {
+    border-radius: 8px;
+    margin: 20px 0px;
+}
+
+.frames {
+    background-color: lightcoral;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding-bottom: 10px;
+}
+
+.frames-pic {
+    border-radius: 8px;
+    margin: 20px 0px;
+}
+
+.frame-prices {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint {
+    background-color: skyblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding-bottom: 10px; 
+}
+
+.paint-pic {
+    border-radius: 8px;
+    margin: 20px 0px; 
+}
+
+.paint-prices {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue; 
+}
